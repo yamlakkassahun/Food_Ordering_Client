@@ -1,5 +1,6 @@
 # food_ordering_client
-
+## Description
+<p>This is the front end for the Food ordering system using VueJs. It is devloped by Yamlak Kassahun.</p>
 ## Project setup
 ```
 npm install
